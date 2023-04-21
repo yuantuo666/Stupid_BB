@@ -2,8 +2,8 @@
 // @name         Stupid_BB
 // @namespace    https://imwcr.cn/
 // @version      0.1
-// @description  修复BB愚蠢的notice页面滚动条
-// @author       You
+// @description  修复BB notice页面愚蠢的滚动条
+// @author       yuantuo666
 // @match        https://bb.cuhk.edu.cn/webapps/streamViewer/streamViewer?cmd=view&streamName=alerts&globalNavigation=false
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=cuhk.edu.cn
 // @grant        none
